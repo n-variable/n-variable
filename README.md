@@ -1,4 +1,3 @@
 Currently Working On:
-https://aori.io/
-https://lemma.so/
-https://limnl.io/
+https://aori.io
+https://lmnl.inc
